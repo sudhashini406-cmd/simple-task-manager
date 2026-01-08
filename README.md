@@ -2,6 +2,9 @@
 
 A simple Task Manager web application built using React.js.
 
+## Live Demo
+🔗 https://simple-task-manager-ten.vercel.app/
+
 ## Features
 - Add new tasks
 - View tasks in To Do, In Progress, and Done columns
@@ -15,27 +18,21 @@ A simple Task Manager web application built using React.js.
 - HTML
 - CSS
 - JavaScript
-- Vite
 
 ## Setup Instructions
-
 1. Clone the repository
-   git clone https://github.com/sudhashini406-cmd/simple-task-manager.git
+   git clone https://github.com/sudhashini406-cmd/simple-task-manager
 
-2. Navigate to the project folder
-   cd simple-task-manager
-
-3. Install dependencies
+2. Install dependencies
    npm install
 
-4. Run the application
+3. Run the application
    npm run dev
 
-5. Open in browser
+4. Open in browser
    http://localhost:5173
 
 ## Notes
 - Application runs locally
 - No backend required
-- Data persists using localStorage
 - UI matches the provided mock-up
